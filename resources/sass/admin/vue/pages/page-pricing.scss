@@ -1,0 +1,14 @@
+@import 'resources/sass/admin/base/pages/page-pricing';
+
+.pricing-card {
+  .annual-plan {
+    .plan-price {
+      sup {
+        left: 0;
+      }
+      sub {
+        right: 0;
+      }
+    }
+  }
+}

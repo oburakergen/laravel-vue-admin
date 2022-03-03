@@ -1,0 +1,14 @@
+@import 'resources/sass/admin/base/pages/page-profile';
+
+// profile-header
+#user-profile {
+  .profile-header {
+    .profile-header-nav {
+      .navbar {
+        .navbar-toggler {
+          border: none;
+        }
+      }
+    }
+  }
+}
